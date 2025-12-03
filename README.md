@@ -7,7 +7,7 @@
 **Role:** Business Intelligence Analyst  
 **Domain:** Retail / E-commerce  
 **Tools:** Power BI, Power Query, DAX, Excel  
-**Dataset:** [Sample - Superstore](Sample%20-%20Superstore.csv) (9,994 records)
+**Dataset:** [Sample - Superstore](superstore dataset) (9,994 records)
 
 ---
 
