@@ -1,8 +1,5 @@
 # Global Superstore Sales & Profitability Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ## 📌 Project Overview
 **Role:** Business Intelligence Analyst  
 **Domain:** Retail / E-commerce  
@@ -51,10 +48,7 @@ I moved beyond simple aggregations to create complex business logic:
 *(Please upload your screenshots to a folder named 'screenshots' and link them below)*
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard_main.png)
-
-### Profit vs. Volume Analysis (Scatter Plot)
-![Scatter Plot](screenshots/scatter_plot.png)
+![Main Dashboard](screenshots/dashboard_image1.png)
 
 ---
 
