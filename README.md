@@ -44,20 +44,10 @@ I moved beyond simple aggregations to create complex business logic:
 
 ---
 
-## 📸 Visuals & Dashboard
-*(Please upload your screenshots to a folder named 'screenshots' and link them below)*
+## Visuals & Dashboard
 
 ### Main Dashboard
 ![Main Dashboard](screenshots/dashboard_image1.png)
-
+![Dashboard](screenshots/dashboard_image2.png)
 ---
 
-## 🚀 How to Run This Project
-1.  Download the `.pbix` file from this repository.
-2.  Open in **Power BI Desktop**.
-3.  Interact with the Year/Region slicers to filter the data.
-
----
-
-## 👤 Author
-**[Your Name]** [Link to your LinkedIn Profile]
