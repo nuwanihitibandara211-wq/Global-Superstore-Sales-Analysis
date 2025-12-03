@@ -29,5 +29,5 @@ I built an interactive Power BI dashboard that enables stakeholders to:
 * **Shipping Impact:** "Same Day" shipping has the lowest profit margin, suggesting a need to restructure shipping costs.
 
 ## Dashboard Visuals
-![Dashboard Screenshot](# Global Superstore Sales Analysis)
+![Dashboard Screenshot]([# Global Superstore Sales Analysis](https://github.com/nuwanihitibandara211-wq/Global-Superstore-Sales-Analysis/blob/main/screenshots/Screenshot%202025-12-03%20170127.png))
 
